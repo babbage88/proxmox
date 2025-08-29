@@ -11,7 +11,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/babbage88/infra-cli/internal/pretty"
+	"github.com/babbage88/proxmox/internal/pretty"
 )
 
 // CreateVM creates a new VM on a given Proxmox node using VMConfigTyped.
